@@ -1,0 +1,22 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "description": "Write a simple smart contract",
+  "main": "hello.sol",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyosung11/contracts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyosung11/contracts/issues"
+  },
+  "homepage": "https://github.com/hyosung11/contracts#readme",
+  "dependencies": {
+    "solc": "^0.5.11"
+  }
+}
